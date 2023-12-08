@@ -2,7 +2,7 @@
 
 ![spirinity dawg stats](https://github-readme-stats.vercel.app/api?username=spirinity&show_icons=true&theme=ambient_gradient)
 ![spirinity WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spirinity&show_icons=true&theme=ambient_gradient&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spirinity\&theme=ambient_gradient&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spirinity\&theme=ambient_gradient&layout=compact)
 <!--
 **spirinity/spirinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
